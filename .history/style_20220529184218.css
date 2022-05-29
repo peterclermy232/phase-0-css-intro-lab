@@ -9,20 +9,16 @@ div {
   /* Your code here! */
   width: 700px;
   margin: auto;
-  font-family: "Helvetica Neue";
-  background: white;
-  padding: 30px;
+  font
 }
 
 /* ID selector to select the element with id 'main-header' */
 #main-header {
   /* Your code here! */
-  font-size: 22px;
   color: red;
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
   /* Your code here! */
-  font-style: italic;
 }
